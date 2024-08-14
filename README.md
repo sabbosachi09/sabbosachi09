@@ -1,13 +1,13 @@
-### ✨ About Myself
+### ✨ Who am I...?
 
-Hi, I am Sabbosachi Howlader, a beginner in web development. I am still a newbie and trying to do better day by day. Still learning new things everyday.
-
-
-### 💻 Languages that I know
-
-![HTML5](assets/html.svg) ![CSS3](assets/css.svg)
+Hi, I am Sabbosachi Howlader a beginner in web development & programming. I am still a newbie and trying to do better day by day. Still learning new things everyday.
 
 
-### 📖 I'm still learning
+### 💻 Languages I know
 
-![Javascript](assets/javascript.svg)
+![HTML5](assets/HTML5%20original.svg) ![CSS3](assets/CSS3%20original.svg)
+
+
+### 📖 Learning
+
+![Javascript](assets/C++%20original.svg)
