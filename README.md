@@ -10,4 +10,4 @@ Hi, I am Sabbosachi a CSE student. I am still a newbie and trying to do better d
 
 ### 📖 Learning
 
-![Javascript](assets/C++%20original.svg)
+![C++](assets/C++%20original.svg)
