@@ -1,6 +1,6 @@
 ### ✨ Who am I...?
 
-Hi, I am Sabbosachi a beginner in web development & programming. I am still a newbie and trying to do better day by day. Still learning new things everyday.
+Hi, I am Sabbosachi a CSE student. I am still a newbie and trying to do better day by day. Still learning new things everyday.
 
 
 ### 💻 Languages I know
