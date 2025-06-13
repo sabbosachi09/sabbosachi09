@@ -16,6 +16,3 @@ Hi, I'm Sabbosachi Howlader - a CSE student and a passionate programmer. I'm a c
 ![](https://github-readme-stats.vercel.app/api?username=sabbosachi09&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sabbosachi09&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbosachi09&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
