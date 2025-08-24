@@ -1,6 +1,6 @@
 
 ## ✨ Who am I...? 
-Hi, I'm Sabbosachi Howlader - a CSE student and a passionate programmer. I'm a curious learner and a newcomer to the field, striving to improve everyday by exploring new concepts and technologies. 
+Hi, I'm Sabbosachi Howlader - a CSE student and a passionate programmer. I'm a curious learner and a newcomer to the field, striving to improve day by day exploring new concepts and technologies. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabbosachi) 
