@@ -7,6 +7,7 @@ Hi, I'm **Sabbosachi Howlader** - a **CSE** student and a passionate programmer.
 
 ## 💻 Tech Stack:
 ### 📖 I know
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) 
 
 ### 📚 Learning
