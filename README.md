@@ -47,5 +47,5 @@ A **Computer Science and Engineering** student focused on **programming**, with 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=sabbosachi09&limit=3&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sabbosachi09&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
