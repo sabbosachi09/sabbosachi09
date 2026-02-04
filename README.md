@@ -1,17 +1,51 @@
 
-## ✨ Who am I...? 
-Hi, I'm **Sabbosachi Howlader** - a **CSE** student and a passionate programmer. I'm a curious learner and a newcomer to the field, striving to improve day by day exploring new concepts and technologies. 
+<div align=center>
 
-## 🌐 Socials:
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/sabbosachi) 
+# Hi, I'm **Sabbosachi Howlader** 👨🏻‍💻
+<h4>
+
+A **Computer Science and Engineering** student focused on **programming**, with a particular interest in **front-end development**, continuously strengthening fundamentals while exploring new concepts and technologies.
+
+</h4>
+
+ [![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/os/macos)
+ [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/aka_Lucifer)
+ [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/sabbosachi)
+ [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sabbosachi.h) <br>
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=sabbosachi09.visitor-badge&left_color=gray&right_color=blue&left_text=Hello%20Programmer)
+
+</div>
+
+---
 
 ## 💻 Tech Stack:
-### 📖 I know
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
-### 📚 Learning
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=000) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+### 🌐 Browsers
+![Safari](https://img.shields.io/badge/Safari-006CFF?style=for-the-badge&logo=Safari&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sabbosachi09&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sabbosachi09&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbosachi09&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📖 Learned
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=fff)
+
+### 📚 Learning
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=000) 
+![Python](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+
+---
+
+<div align=center>
+
+## 📊 GitHub Stats
+![](https://nirzak-streak-stats.vercel.app/?user=sabbosachi09&theme=github_dark&hide_border=false)
+
+## ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+## 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=sabbosachi09&limit=3&theme=dark&combine_all_yearly_contributions=true)
+</div>
