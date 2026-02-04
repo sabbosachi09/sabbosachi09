@@ -30,7 +30,7 @@ A **Computer Science and Engineering** student focused on **programming**, with 
 
 ### 📚 Learning
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=000) 
-![Python](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ---
 
