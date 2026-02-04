@@ -2,11 +2,7 @@
 <div align=center>
 
 # Hi, I'm **Sabbosachi Howlader** 👨🏻‍💻
-<h4>
-
 A **Computer Science and Engineering** student focused on **programming**, with a particular interest in **front-end development**, continuously strengthening fundamentals while exploring new concepts and technologies.
-
-</h4>
 
  [![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/os/macos)
  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/aka_Lucifer)
