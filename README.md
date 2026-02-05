@@ -39,9 +39,6 @@ A **Computer Science and Engineering** student focused on **programming**, with 
 ## 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=sabbosachi09&theme=github_dark&hide_border=false)
 
-## ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ## 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=sabbosachi09&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
