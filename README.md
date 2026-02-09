@@ -17,20 +17,20 @@ A **Computer Science and Engineering** student focused on **programming**, with 
 
 ## 💻 Tech Stack:
 ### 🌐 Browsers
-![Safari](https://img.shields.io/badge/Safari-006CFF?style=for-the-badge&logo=Safari&logoColor=white)
-![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+[![Safari](https://img.shields.io/badge/Safari-006CFF?style=for-the-badge&logo=Safari&logoColor=white)](https://www.apple.com/safari/)
+[![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/)
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.firefox.com/en-GB/)
 
 ### 📖 Learned
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=fff)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.c-language.org/)
+[![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
+[![CSS3](https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=fff)](https://www.w3.org/Style/CSS/Overview.en.html)
 
 ### 📚 Learning
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=000) 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=000)](https://www.java.com/en/)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 
 ---
 
@@ -38,6 +38,9 @@ A **Computer Science and Engineering** student focused on **programming**, with 
 
 ## 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=sabbosachi09&theme=github_dark&hide_border=false)
+
+## ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=sabbosachi09&limit=5&theme=dark&combine_all_yearly_contributions=true)
